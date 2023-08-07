@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/deterministic-arts/DartsCLTools.git   |
-| commit  | 2b625a4  |
-| systems | DartsCLTools |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/deterministic-arts/DartsCLTools.git |
+| commit  | 2b625a4                                                    |
+| systems | darts.lib.tools                                            |
+|---------+------------------------------------------------------------|
